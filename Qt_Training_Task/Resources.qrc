@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>loginScreen.qml</file>
+        <file>Images/employee.png</file>
+        <file>Images/user.png</file>
+        <file>Images/user (1).png</file>
+        <file>Images/padlock.png</file>
+        <file>Images/email.png</file>
+        <file>Images/lock.png</file>
+        <file>dataBase.csv</file>
+        <file>successful.qml</file>
+        <file>Images/buildings.png</file>
+        <file>Images/logout.png</file>
+        <file>Images/pause.png</file>
+        <file>Images/pause-play.png</file>
+        <file>Images/play.png</file>
+        <file>Images/stop.png</file>
+        <file>Images/cancel.png</file>
+        <file>Images/check.png</file>
+        <file>wrong.qml</file>
+        <file>dataEmpty.qml</file>
+        <file>passwordMiss.qml</file>
+        <file>passwordSmall.qml</file>
+        <file>userEmailFound.qml</file>
+        <file>successfulSign.qml</file>
+        <file>Images/download.png</file>
+    </qresource>
+</RCC>

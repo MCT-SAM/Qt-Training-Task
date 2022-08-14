@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="loginScreen.qml">../Qt_Training_Task/loginScreen.qml</file>
+        <file alias="Images/employee.png">../Qt_Training_Task/Images/employee.png</file>
+        <file alias="Images/user.png">../Qt_Training_Task/Images/user.png</file>
+        <file alias="Images/user (1).png">../Qt_Training_Task/Images/user (1).png</file>
+        <file alias="Images/padlock.png">../Qt_Training_Task/Images/padlock.png</file>
+        <file alias="Images/email.png">../Qt_Training_Task/Images/email.png</file>
+        <file alias="Images/lock.png">../Qt_Training_Task/Images/lock.png</file>
+        <file alias="dataBase.csv">../Qt_Training_Task/dataBase.csv</file>
+        <file alias="successful.qml">../Qt_Training_Task/successful.qml</file>
+        <file alias="Images/buildings.png">../Qt_Training_Task/Images/buildings.png</file>
+        <file alias="Images/logout.png">../Qt_Training_Task/Images/logout.png</file>
+        <file alias="Images/pause.png">../Qt_Training_Task/Images/pause.png</file>
+        <file alias="Images/pause-play.png">../Qt_Training_Task/Images/pause-play.png</file>
+        <file alias="Images/play.png">../Qt_Training_Task/Images/play.png</file>
+        <file alias="Images/stop.png">../Qt_Training_Task/Images/stop.png</file>
+        <file alias="Images/cancel.png">../Qt_Training_Task/Images/cancel.png</file>
+        <file alias="Images/check.png">../Qt_Training_Task/Images/check.png</file>
+        <file alias="wrong.qml">../Qt_Training_Task/wrong.qml</file>
+        <file alias="dataEmpty.qml">../Qt_Training_Task/dataEmpty.qml</file>
+        <file alias="passwordMiss.qml">../Qt_Training_Task/passwordMiss.qml</file>
+        <file alias="passwordSmall.qml">../Qt_Training_Task/passwordSmall.qml</file>
+        <file alias="userEmailFound.qml">../Qt_Training_Task/userEmailFound.qml</file>
+        <file alias="successfulSign.qml">../Qt_Training_Task/successfulSign.qml</file>
+    </qresource>
+</RCC>
